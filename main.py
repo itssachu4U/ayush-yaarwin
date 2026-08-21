@@ -65,7 +65,7 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
     add_user(user.id)
 
     welcome_message = f"""
-👋🏻 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 {user.mention_html()} 𝐁𝐑𝐎𝐓𝐇𝐄𝐑 𝐓𝐎 𝗢𝗨𝗥 - 𝐉𝐀𝐈𝐂𝐋𝐔𝐁 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐇𝐀𝐂𝐊 𝐒𝐄𝐑𝐕𝐄𝐑 🤑
+👋🏻 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 {user.mention_html()} 𝐁𝐑𝐎𝐓𝐇𝐄𝐑 𝐓𝐎 𝗢𝗨𝗥 - 𝐘𝐀𝐀𝐑𝐖𝐈𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐇𝐀𝐂𝐊 𝐒𝐄𝐑𝐕𝐄𝐑 🤑
 """
 
     try:
@@ -102,9 +102,9 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
 (केवल प्रीमियम उपयोगकर्ताओं के लिए)💎
 (𝟏𝟎𝟎% नुकसान की भरपाई की गारंटी)🧬
 
-♻सहायता के लिए @NISHU_9X_PRO
+♻सहायता के लिए @vipromeo7
 🔴हैक का उपयोग कैसे करें
-https://t.me/+u3qAXa-3H29kNjM9""",
+https://19yaarwin.com/#/register?invitationCode=245184507991""",
                 )
         except Exception as e:
             logging.error(f"APK send error: {e}")
@@ -117,9 +117,9 @@ https://t.me/+u3qAXa-3H29kNjM9""",
                     chat_id=user.id,
                     voice=voice,
                     caption="""🎙 सदस्य 9X गुना लाभ का प्रमाण 👇🏻
-https://t.me/+u3qAXa-3H29kNjM9
+https://19yaarwin.com/#/register?invitationCode=245184507991
 
-♻सहायता के लिए @NISHU_9X_PRO
+♻सहायता के लिए @vipromeo7
 लगातार नंबर पे नंबर जीतना 🤑♻👑""",
                 )
         except Exception as e:
