@@ -15,7 +15,7 @@ from telegram.ext import (
 from telegram.error import Forbidden, BadRequest, TimedOut, NetworkError
 
 # ================= CONFIG =================
-BOT_TOKEN = "8157438383:AAF2hzj6X0CJVDnYOLcR8YUYoUM0r0KKtl0"
+BOT_TOKEN = "8964670417:AAHfFrMf95MMyM6QHcbqtAml25IvmmpT7Po"
 ADMIN_ID = 7849592882
 APK_PATH = "𝐉𝐚𝐲_𝐜𝐥𝐮𝐛_𝐧𝐮𝐦𝐛𝐚𝐫_𝐩𝐞𝐧𝐞𝐥.apk"
 VOICE_PATH = "VOICEHACK.ogg"
