@@ -16,10 +16,10 @@ from telegram.error import Forbidden, BadRequest, TimedOut, NetworkError
 
 # ================= CONFIG =================
 BOT_TOKEN = "8964670417:AAHfFrMf95MMyM6QHcbqtAml25IvmmpT7Po"
-ADMIN_ID = 7849592882
-APK_PATH = "𝐉𝐚𝐲_𝐜𝐥𝐮𝐛_𝐧𝐮𝐦𝐛𝐚𝐫_𝐩𝐞𝐧𝐞𝐥.apk"
+ADMIN_ID = 6012537815
+APK_PATH = "𝙍𝙊𝙈𝙀𝙊_𝙉𝙐𝙈𝘽𝙀𝙍_𝙋𝘼𝙉𝙀𝙇.apk"
 VOICE_PATH = "VOICEHACK.ogg"
-VIDEO_PATH = "SYVOX-HACK-01.mp4"
+VIDEO_PATH = "BIITU-YAAR.mp4"
 DB_NAME = "users.db"
 # ==========================================
 
